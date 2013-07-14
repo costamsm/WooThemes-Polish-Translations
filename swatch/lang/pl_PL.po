@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Swatch v1.4.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-03-01 15:52:40+0000\n"
+"PO-Revision-Date: 2013-07-14 21:13:11+0000\n"
 "Last-Translator: Kostas CoSTa Brzeziński <costa.msm@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -421,17 +421,17 @@ msgstr "Wyślij"
 #: functions/admin-shortcodes.php:1264
 #@ woothemes
 msgid "Please enter your name"
-msgstr ""
+msgstr "Podaj swoje imię"
 
 #: functions/admin-shortcodes.php:1265
 #@ woothemes
 msgid "Please enter your email address (and please make sure it's valid)"
-msgstr ""
+msgstr "Podaj swój adres email (upewnij się, że jest prawidłowy)"
 
 #: functions/admin-shortcodes.php:1266
 #@ woothemes
 msgid "Please enter your message"
-msgstr ""
+msgstr "Napisz wiadomość"
 
 #: functions/admin-shortcodes.php:1331
 #: functions/admin-shortcodes.php:1337
@@ -452,18 +452,18 @@ msgstr "Odpowiedź: "
 #: template-contact.php:129
 #@ woothemes
 msgid "Your email was successfully sent."
-msgstr ""
+msgstr "Twoja wiadomość została prawidłowo wysłana."
 
 #: functions/admin-shortcodes.php:1362
 #@ woothemes
 msgid "There were one or more errors while submitting the form."
-msgstr ""
+msgstr "Pojawiły się problemy podczas wysyłki wiadomości."
 
 #: functions/admin-shortcodes.php:1367
 #: template-contact.php:148
 #@ woothemes
 msgid "E-mail has not been setup properly. Please add your contact e-mail!"
-msgstr ""
+msgstr "Nieprawidłowy adres email. Proszę, podaj prawidłowy adres."
 
 #: functions/admin-shortcodes.php:1386
 #: includes/theme-functions.php:287
@@ -495,7 +495,7 @@ msgstr "Wyślij kopię wiadomości do siebie"
 #: template-contact.php:176
 #@ woothemes
 msgid "If you want to submit this form, do not enter anything in this field"
-msgstr ""
+msgstr "Jeśli chcesz wysłać tę wiadomość, nie wypełniaj tego pola"
 
 #: functions/admin-shortcodes.php:1842
 #: functions/admin-shortcodes.php:1877
@@ -717,12 +717,12 @@ msgstr "{ Edycja }"
 #: includes/widgets/widget-woo-subscribe.php:36
 #@ woothemes
 msgid "Subscribe"
-msgstr ""
+msgstr "Subskrybuj newsletter"
 
 #: includes/theme-functions.php:200
 #@ woothemes
 msgid "Subscribe to our e-mail newsletter to receive updates."
-msgstr ""
+msgstr "Zasubskrybuj nasz newsletter aby otrzymywać mailowe powiadomienia o aktualizacjach strony."
 
 #: includes/theme-functions.php:204
 #: includes/theme-functions.php:216
@@ -756,12 +756,12 @@ msgstr "Obejrzyj zdjęcia na Flickr"
 #: includes/theme-functions.php:241
 #@ woothemes
 msgid "Connect on LinkedIn"
-msgstr ""
+msgstr "Połącz z LinkedIn"
 
 #: includes/theme-functions.php:244
 #@ woothemes
 msgid "Discover on Delicious"
-msgstr ""
+msgstr "Odkryj na Delicious"
 
 #: includes/theme-functions.php:247
 #@ woothemes
@@ -2719,7 +2719,7 @@ msgstr "Ostatnie wpisy według kategorii"
 #: template-timeline.php:74
 #@ woothemes
 msgid "1 comment"
-msgstr ""
+msgstr "1 komentarz"
 
 #: template-timeline.php:74
 #@ woothemes
@@ -2871,17 +2871,17 @@ msgstr ""
 #: functions/admin-functions.php:1042
 #@ woothemes
 msgid "minutes ago"
-msgstr ""
+msgstr "minut temu"
 
 #: functions/admin-functions.php:1046
 #@ woothemes
 msgid "hours ago"
-msgstr ""
+msgstr "godzin temu"
 
 #: functions/admin-functions.php:1050
 #@ woothemes
 msgid "days ago"
-msgstr ""
+msgstr "dni temu"
 
 #: includes/theme-functions.php:1066
 #@ woothemes
@@ -3018,7 +3018,7 @@ msgstr ""
 #: functions/admin-functions.php:1038
 #@ woothemes
 msgid "less than a minute ago"
-msgstr ""
+msgstr "mniej niż minutę temu"
 
 #: functions/admin-functions.php:1040
 #@ woothemes
@@ -3527,12 +3527,12 @@ msgstr ""
 #: functions/admin-functions.php:3581
 #@ woothemes
 msgid "You do not have sufficient permissions to access this page."
-msgstr ""
+msgstr "Nie masz odpowiednich uprawnień, by wyświetlić tę stronę."
 
 #: functions/admin-functions.php:3583
 #@ woothemes
 msgid "You have taken too long. Please go back and retry."
-msgstr ""
+msgstr "Zbyt długo zwlekałeś. Wróć i spróbuj ponownie."
 
 #: functions/admin-functions.php:3617
 #@ woothemes
